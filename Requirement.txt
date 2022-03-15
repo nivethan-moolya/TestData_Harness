@@ -1,0 +1,9 @@
+Install Python version 3+
+Install pip version 21+
+#Libraries
+pip install pandas
+pip install numpy
+pip install string
+pip install traceback
+pip install logging
+pip install time
