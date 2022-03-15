@@ -37,8 +37,9 @@ MAINTAINERS
 
 EXERCISE
 ------------
-* 1. Create Excel(.xlsx) file with your desired N(Sheets, Rows, Columns & DataTypes)
+1. Create Excel(.xlsx) file with your desired N(Sheets, Rows, Columns & DataTypes)
     - Usage: For .xlsx File ingestion testing
-    - File name: Exercise/create_files/this_excelCreator.py
+    - File name: this_excelCreator.py
+    - Location: Exercise/create_files/this_excelCreator.py
     - Command: <bash run.sh this_excelCreator>
     - Note: Execution time depends on how huge the user inputs are, (Won't take more than a Coffee break!)
